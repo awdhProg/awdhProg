@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<h1 align="center">👋 Hi there, I'm Ali Awadah</h1>
+<h1 align="center">👋 OxBits TEAM </h1>
 <h3 align="center">💻 .NET | 🧠 AI | 🤖 IoT Developer | Freelance Engineer</h3>
 
 ---
@@ -18,8 +18,8 @@ I specialize in **.NET WPF desktop systems**, **AI-driven Python solutions**, an
 
 | Category | Technologies |
 |-----------|---------------|
-| **🧠 Programming Languages** | 🟦 C# & VB.NET • 🐍 Python • 🧾 XAML • 🗃️ SQL • 📄 XML / JSON |
-| **🖥️ Frameworks & Platforms** | 🧩 .NET (WPF / MVVM) • 🤖 Android Native • 🧬 OpenCV • 🔹 TensorFlow / Deep Learning |
+| **🧠 Programming Languages** | 🟦 C# & VB.NET • 🐍 Python • 🧾 XAML • 🗃️ SQL • 📄 XML / JSON | JAVA | PHP | C++ | 
+| **🖥️ Frameworks & Platforms** | 🧩 .NET (WPF / MVVM) • 🤖 Android Native • 🧬 OpenCV • 🔹 TensorFlow / Deep Learning | 
 | **🗄️ Databases** | 💾 SQLite • 🪶 LiteDB • 🗂️ MS Access |
 | **🤖 AI & Data Science** | 🧠 LLMs • 🔤 Prompt Engineering • 🧩 Computer Vision • 🧮 Data Analysis |
 | **⚙️ DevOps & Tools** | 🐳 Docker • 🧰 Postman • 🐧 Linux • 🔄 Git / GitHub |
@@ -30,7 +30,7 @@ I specialize in **.NET WPF desktop systems**, **AI-driven Python solutions**, an
 
 ### 💼 Featured Work Areas
 - 🖥️ **WPF Desktop Applications** — POS systems, Management dashboards, Utility tools  
-- 🤖 **AI + Computer Vision** — Object detection, image classification, automation tools  
+- 🤖 **AI + Computer Vision** — LLM | Object detection, image classification, automation tools  
 - 📱 **Android Native Apps** — Companion apps for desktop and IoT projects  
 - 🔌 **IoT Systems** — Arduino & ESP-based automation, sensor data logging  
 - 🧩 **API Integration** — RESTful APIs, JSON/XML communication, Postman workflow  
