@@ -38,15 +38,6 @@ I specialize in **.NET WPF desktop systems**, **AI-driven Python solutions**, an
 
 ---
 
-### 🌟 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliAwadah&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAwadah&layout=compact&theme=tokyonight" alt="Top Languages" height="165">
-</p>
-
----
-
 ### 📫 Connect With Me
 <p align="center">
   🌐 <a href="#">Portfolio Website</a> •  
